@@ -2,11 +2,11 @@
 
 I am a proactive and problem-solving M.Sc. student in Computer Engineering - Cybersecurity at UNICAL. I recently graduated with a B.Sc. in Computer Engineering. My goal is to combine my solid full-stack development skills with a strong focus on Information Security and secure software architecture. 
 
-## 🎯 What I'm currently working on
-* 🛡️ Designing a real-time Network Intrusion Detection system using the Apache Storm framework.
-* ☁️ Developing cloud-native distributed applications based entirely on serverless paradigms.
-* 🤖 Training and optimizing Machine Learning models, with a specific focus on LLM architectures.
-* 🔐 Implementing advanced cryptographic algorithms for data protection.
+## 🚀 Featured Academic & Personal Projects
+* 🛡️ **Network Security:** Designed a real-time Network Intrusion Detection system using the Apache Storm framework.
+* ☁️ **Cloud Computing:** Developed cloud-native distributed applications based entirely on serverless paradigms.
+* 🤖 **AI & Machine Learning:** Trained and optimized Machine Learning models, with a specific focus on LLM architectures.
+* 🔐 **Cryptography:** Implemented advanced cryptographic algorithms for data protection.
 
 ## 💻 Tech Stack & Tools
 
