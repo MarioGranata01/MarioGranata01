@@ -47,5 +47,5 @@ I am a proactive and problem-solving M.Sc. student in Computer Engineering - Cyb
 </p>
 
 ## 📫 How to reach me
-* **LinkedIn:** [Franco Mario Granata](https://www.linkedin.com/in/franco-mario-granata-a429732a7/)
+* **LinkedIn:** [Franco Mario Granata](https://www.linkedin.com/in/franco-mario-granata-1a4a303b3/)
 * **Email:** granatafrancomario@gmail.com
